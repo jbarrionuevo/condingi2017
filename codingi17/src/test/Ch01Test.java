@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import cci.arrays.lists.Ch01Ex01;
+import ch1.cci.arrays.lists.Ch01Ex01;
 
 public class Ch01Test {
 

@@ -1,4 +1,4 @@
-package cci.arrays.lists;
+package ch1.cci.arrays.lists;
 
 import java.util.HashSet;
 import java.util.Set;
